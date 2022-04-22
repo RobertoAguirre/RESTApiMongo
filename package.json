@@ -1,0 +1,13 @@
+{
+  "name": "restapimongo",
+  "version": "1.0.0",
+  "description": "rest api with node connected to local mongodb",
+  "main": "server.js",
+  "author": "Roberto Aguirre",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.3.0"
+  }
+}
